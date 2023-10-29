@@ -18,6 +18,6 @@ MVM021 Utility Mixer
 
 MVM024 VCF
 
-These modules are based on the schematics created by Cody Iott, Noise Reap. Original schematics can be found here: https://github.com/odeliy/schema-cave. Per the open source policy, a portion of the proceeds for all sales of this series will be donated to One of A Kind pet rescue in Akron, Ohio.
+These modules are based on the schematics created by Cody Iott. Original schematics can be found here: https://github.com/odeliy/schema-cave. A portion of the proceeds for all sales of this series will be donated to One of A Kind pet rescue in Akron, Ohio.
 
 Questions? Send us an email: midiversetv@gmail.com
